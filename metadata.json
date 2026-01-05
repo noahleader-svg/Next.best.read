@@ -1,0 +1,5 @@
+{
+  "name": "Next Best Read",
+  "description": "Intelligent book recommendation engine for Goodreads users to conquer their 'want to read' lists.",
+  "requestFramePermissions": []
+}
